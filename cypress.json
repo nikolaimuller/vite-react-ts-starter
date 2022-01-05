@@ -1,0 +1,10 @@
+{
+  "fixturesFolder": false,
+  "supportFile": false,
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "defaultCommandTimeout": 40000,
+  "baseUrl": "http://localhost:3000",
+  "chromeWebSecurity": false,
+  "pageLoadTimeout": 100000
+}
